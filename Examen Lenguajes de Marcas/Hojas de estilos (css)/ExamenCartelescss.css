@@ -1,0 +1,491 @@
+body{
+    font-family: Helvetica;
+    margin: 5px 40px;
+}
+
+header{
+    border-radius: 14px;
+    border: gray solid 1px;
+    height: 100px;
+    width: 100%;
+    background-color: darkslategray;
+}
+
+.Titulo1{
+    margin: 20px;
+    position: relative;
+    top: 30px;
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+}
+
+.nav1{
+    position: relative;
+    left: 1650px;
+    top: 20px;
+}
+
+.div2{
+    background-color: gainsboro;
+    border-radius: 14px;
+    margin: 20px;
+    padding: 10px;
+    width: 500px;
+    position: relative;
+    left: 900px;
+    border: black 1px solid;
+}
+
+.Titulo2{
+    font-weight: bold;
+    color: darkslategray;
+}
+
+.div3{
+    background-color: gainsboro;
+    border-radius: 14px;
+    border: 0px solid;
+    margin: 30px;
+    width: 650px;
+    height: 230px;
+}
+
+.div4{
+    margin: 15px;
+    margin-bottom: 10px;
+}
+
+.div5{
+    position: relative;
+    left: 170px;
+    bottom: 200px;
+}
+
+.hr1{
+    position: relative;
+    right: 147px;
+    width: 350px;
+    border: black 1px solid;
+}
+
+.b1{
+    font-weight: bold;
+    font-size: xx-large;
+    color: darkslategray;
+}
+
+.b2{
+    font-weight: bold;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.b3{
+    font-weight: normal;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.b4{
+    font-weight: normal;
+    font-size: medium;
+    color: darkslategray;
+
+}
+
+.div1-1{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 200px;
+    left: 150px;
+}
+
+.div1-2{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 250px;
+    left: 260px;
+}
+
+.div1-3{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 300px;
+    left: 380px;
+}
+
+.a1{
+    color: white;
+}
+
+.a2{
+    color: white;
+}
+
+.a3{
+    color: white;
+}
+
+.div7{
+    background-color: gainsboro;
+    border-radius: 14px;
+    border: 0px solid;
+    margin: 30px;
+    width: 650px;
+    height: 230px;
+    position: relative;
+    left: 750px;
+    bottom: 525px;
+}
+
+.div8{
+    margin: 15px;
+    margin-bottom: 10px;
+}
+
+.div9{
+    position: relative;
+    left: 170px;
+    bottom: 200px;
+}
+
+.hr2{
+    position: relative;
+    right: 147px;
+    width: 350px;
+    border: black 1px solid;
+}
+
+.c1{
+    font-weight: bold;
+    font-size: xx-large;
+    color: darkslategray;
+}
+
+.c2{
+    font-weight: bold;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.c3{
+    font-weight: normal;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.c4{
+    font-weight: normal;
+    font-size: medium;
+    color: darkslategray;
+
+}
+
+.div2-1{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 200px;
+    left: 150px;
+}
+
+.div2-2{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 250px;
+    left: 260px;
+}
+
+.div2-3{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 300px;
+    left: 380px;
+}
+
+.aa1{
+    color: white;
+}
+
+.aa2{
+    color: white;
+}
+
+.aa3{
+    color: white;
+}
+
+
+
+.div11{
+    background-color: gainsboro;
+    border-radius: 14px;
+    border: 0px solid;
+    margin: 30px;
+    width: 650px;
+    height: 230px;
+    position: relative;
+    left: 780px;
+    bottom: 525px;
+}
+
+.div12{
+    margin: 15px;
+    margin-bottom: 10px;
+}
+
+.div13{
+    position: relative;
+    left: 170px;
+    bottom: 200px;
+}
+
+.hr3{
+    position: relative;
+    right: 147px;
+    width: 350px;
+    border: black 1px solid;
+}
+
+.d1{
+    font-weight: bold;
+    font-size: xx-large;
+    color: darkslategray;
+}
+
+.d2{
+    font-weight: bold;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.d3{
+    font-weight: normal;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.d4{
+    font-weight: normal;
+    font-size: medium;
+    color: darkslategray;
+
+}
+
+.div3-1{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 200px;
+    left: 150px;
+}
+
+.div3-2{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 250px;
+    left: 260px;
+}
+
+.div3-3{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 300px;
+    left: 380px;
+}
+
+.aaa1{
+    color: white;
+}
+
+.aaa2{
+    color: white;
+}
+
+.aaa3{
+    color: white;
+}
+
+
+.div15{
+    background-color: gainsboro;
+    border-radius: 14px;
+    border: 0px solid;
+    margin: 30px;
+    width: 650px;
+    height: 230px;
+    position: relative;
+    right: 1620px;
+    bottom: 250px;
+}
+
+.div16{
+    margin: 15px;
+    margin-bottom: 10px;
+}
+
+.div17{
+    position: relative;
+    left: 170px;
+    bottom: 200px;
+}
+
+.hr4{
+    position: relative;
+    right: 147px;
+    width: 350px;
+    border: black 1px solid;
+}
+
+.e1{
+    font-weight: bold;
+    font-size: xx-large;
+    color: darkslategray;
+}
+
+.e2{
+    font-weight: bold;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.e3{
+    font-weight: normal;
+    font-size: medium;
+    color: darkslategray;
+}
+
+.e4{
+    font-weight: normal;
+    font-size: medium;
+    color: darkslategray;
+
+}
+
+.div4-1{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 200px;
+    left: 150px;
+}
+
+.div4-2{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 250px;
+    left: 260px;
+}
+
+.div4-3{
+    background-color: darkslategray;
+    margin: 20px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 300px;
+    left: 380px;
+}
+
+.aaaa1{
+    color: white;
+}
+
+.aaaa2{
+    color: white;
+}
+
+.aaaa3{
+    color: white;
+}
+
+.q1{
+    position: relative;
+    top: 8px;
+}
+
+.q2{
+    position: relative;
+    top: 8px;
+}
+
+.q3{
+    position: relative;
+    top: 8px;
+}
+
+.q4{
+    position: relative;
+    top: 8px;
+}
+
+.q5{
+    position: relative;
+    top: 8px;
+}
+
+.q6{
+    position: relative;
+    top: 8px;
+}
+
+.q7{
+    position: relative;
+    top: 8px;
+}
+
+.q8{
+    position: relative;
+    top: 8px;
+}
+
+.q9{
+    position: relative;
+    top: 8px;
+}
+
+.q10{
+    position: relative;
+    top: 8px;
+}
+
+.q11{
+    position: relative;
+    top: 8px;
+}
+
+.q12{
+    position: relative;
+    top: 8px;
+}

@@ -1,0 +1,64 @@
+body{
+    font-family: Helvetica;
+    margin: 5px 40px;
+}
+
+header{
+    border-radius: 14px;
+    border: gray solid 1px;
+    height: 100px;
+    width: 100%;
+    background-color: darkslategray;
+}
+
+.Titulo1{
+    margin: 20px;
+    position: relative;
+    top: 30px;
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+}
+
+.nav1{
+    position: relative;
+    left: 1650px;
+    top: 20px;
+}
+
+.div2{
+    background-color: gainsboro;
+    border-radius: 14px;
+    margin: 20px;
+    padding: 10px;
+    width: 500px;
+    position: relative;
+    left: 650px;
+    border: black 1px solid;
+}
+
+.Titulo2{
+    font-weight: bold;
+    color: darkslategray;
+}
+
+p{
+    color: darkslategray;
+}
+
+.input1{
+    width: 15px;
+
+}
+
+.div3{
+    position: relative;
+    left: 740px;
+}
+
+.recuadro{
+    width: 350px;
+    height: 250px;
+    background-color: whitesmoke;
+    border: 0px solid;
+}
