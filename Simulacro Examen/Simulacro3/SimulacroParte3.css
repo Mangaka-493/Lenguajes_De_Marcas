@@ -1,0 +1,53 @@
+.div1{
+    background-color: red;
+    padding: 10px;
+    margin: 0px;
+    border-top: black 2px solid;
+    border-bottom: black 2px solid;
+}
+
+.nav1 a{
+        position: relative;
+        left: 1300px;
+        bottom: 25px;
+        margin-right: 25px;
+}
+
+.img1{
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+body{
+    margin: 0px;
+}
+
+.div2{
+    margin: 100px;
+}
+
+.p1{
+    font-weight: normal;
+    font-size: xx-large;
+}
+
+.correo{
+
+    width: 1660px;
+    height: 30px;
+    border: lightgrey 2px solid;
+}
+
+.mensaje{
+
+    width: 1660px;
+    height: 90px;
+    border: lightgrey 2px solid;
+}
+
+.tabla1{
+
+    border:lightgrey 2px solid;
+
+}

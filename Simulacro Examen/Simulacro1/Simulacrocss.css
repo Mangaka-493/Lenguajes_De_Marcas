@@ -1,0 +1,125 @@
+.div1{
+    background-color: red;
+    padding: 10px;
+    margin: 0px;
+    border-top: black 2px solid;
+    border-bottom: black 2px solid;
+}
+
+.nav1 a{
+        position: relative;
+        left: 900px;
+        bottom: 25px;
+        margin-right: 25px;
+}
+
+.img1{
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+body{
+    margin: 0px;
+}
+
+.div2{
+    margin: 130px;
+}
+
+.img2{
+    width: 820px;
+    height: 330px;
+}
+
+.p2{
+    font-weight: normal;
+    font-size: xx-large;
+}
+
+.p1{
+    margin: 20px;
+    position: relative;
+    left: 850px;
+    bottom: 330px;
+}
+
+
+.table1{
+    margin: 20px;
+    position: relative;
+    left: 850px;
+    bottom: 320px;
+    width: 95px;
+    height: 40px;
+}
+
+hr{
+    position: relative;
+    bottom: 160px;
+}
+
+.div3{
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 150px;
+    padding: 20px;
+}
+
+.div4{
+
+    position: relative;
+    bottom: 145px;
+    margin-top: 25px;
+}
+
+.p4{
+    position: relative;
+    left: 90px;
+    bottom: 90px;
+}
+
+.p3{
+
+    position: relative;
+    bottom: 40px;
+
+}
+
+
+.p5{
+    position: relative;
+    left: 175px;
+    bottom: 17px;
+}
+
+.b1{
+    font-weight: normal;
+    font-size: x-large;
+}
+
+.b2{
+    font-weight: normal;
+    font-size: x-large;
+}
+
+.b3{
+    font-weight: normal;
+    font-size: x-large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

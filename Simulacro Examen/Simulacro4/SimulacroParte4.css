@@ -1,0 +1,162 @@
+.div1{
+    background-color: red;
+    padding: 10px;
+    margin: 0px;
+    border-top: black 2px solid;
+    border-bottom: black 2px solid;
+
+}
+
+.nav1 a{
+        position: relative;
+        left: 1300px;
+        bottom: 25px;
+        margin-right: 25px;
+}
+
+.img1{
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+body{
+    margin: 0px;
+}
+
+.div2{
+
+    margin: 150px;
+    font-weight: normal;
+    font-size: xx-large;
+}
+
+.hr1{
+    border-color: currentColor;
+    position: relative;
+    bottom: 110px;
+}
+
+.hr2{
+    border-color: currentColor;
+}
+
+.div3{
+    margin-left: 150px;
+    margin-right: 150px;
+    position: relative;
+    bottom: 100px;
+}
+
+.div4{
+    border:lightgrey 2px solid;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 50px;
+
+}
+
+.p2{
+    font-weight: normal;
+    font-size: xx-large;
+}
+
+.b1{
+    font-size: 40px;
+}
+
+.table2{
+
+    background-color: red;
+    border: 2px solid;
+    position: relative;
+    bottom: 10px;
+}
+
+.td10{
+    color: white;
+}
+
+.div5{
+    border:lightgrey 2px solid;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 50px;
+    margin-left: 40px;
+}
+
+.p3{
+    font-weight: normal;
+    font-size: xx-large;
+}
+
+.b2{
+    font-size: 40px;
+}
+
+.table3{
+    background-color: red;
+    border: 2px solid;
+    position: relative;
+    bottom: 10px;
+}
+
+.td11{
+    color: white;
+}
+
+.div6{
+    border:lightgrey 2px solid;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 50px;
+    margin-left: 40px;
+}
+
+.p4{
+    font-weight: normal;
+    font-size: xx-large;
+}
+
+.b3{
+    font-size: 40px;
+}
+
+.table4{
+    background-color: red;
+    border: 2px solid;
+    position: relative;
+    bottom: 10px;
+}
+
+.td12{
+    color: white;
+}
+
+.img3{
+    width: 450px;
+    height: 215px;
+}
+
+.img4{
+    width: 450px;
+    height: 215px;
+}
+
+.p0{
+
+    position: relative;
+    top: 25px;
+}
+
+.divFin{
+    margin: 150px;
+    position: relative;
+    bottom: 200px;
+}
+
+.pFin{
+    color: gray;
+}
+
+
